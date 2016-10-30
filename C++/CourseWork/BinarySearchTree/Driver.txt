@@ -1,0 +1,37 @@
+new
+empty 1
+member 6 0
+size 0
+sum 0
+root0
+delete
+summary
+new
+insert 8.8
+insert 7.7
+insert 6.6
+insert 5.5
+insert 4.4
+insert 4.4
+insert 3.3
+insert 5.6
+insert 5.4
+member 3.3 1
+member 0 0
+sum 47.3
+empty 0
+size 8
+min 3.3
+max 8.8
+root
+right0
+left
+left
+left
+right
+left0
+right0
+exit
+delete
+summary
+exit
